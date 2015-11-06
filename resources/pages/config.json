@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"title": {
+			"name": "title",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "title",
+			"order": 0
+		},
+		"namedChildren": {
+			"name": "namedChildren",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "namedChildren",
+			"order": 1
+		},
+		"assets": {
+			"name": "assets",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "assets",
+			"order": 2
+		},
+		"tiles": {
+			"name": "tiles",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "tiles",
+			"order": 3
+		},
+		"parentId": {
+			"name": "parentId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "parentId",
+			"order": 4
+		},
+		"ownerId": {
+			"name": "ownerId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "ownerId",
+			"order": 5
+		}
+	}
+}

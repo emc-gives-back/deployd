@@ -1,0 +1,9 @@
+{
+  "name": "emc_gives_back_deployd",
+  "version": "0.0.0",
+  "description": "Cope EMC app deploud api",
+  "dependencies": {
+    "deployd": "^0.8.7",
+    "dpd-fileupload": "0.0.15"
+  }
+}
