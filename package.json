@@ -5,5 +5,6 @@
   "dependencies": {
     "deployd": "^0.8.7",
     "dpd-fileupload": "0.0.15"
-  }
+  },
+  "scripts": {"start": "node app.js"}
 }
