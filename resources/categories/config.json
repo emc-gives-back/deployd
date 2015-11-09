@@ -17,21 +17,13 @@
 			"id": "image",
 			"order": 1
 		},
-		"childIds": {
-			"name": "childIds",
-			"type": "array",
-			"typeLabel": "array",
-			"required": false,
-			"id": "childIds",
-			"order": 2
-		},
-		"parentId": {
-			"name": "parentId",
+		"owner": {
+			"name": "owner",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "parentId",
-			"order": 3
+			"id": "owner",
+			"order": 2
 		}
 	}
 }

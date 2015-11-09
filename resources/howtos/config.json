@@ -1,12 +1,12 @@
 {
 	"type": "Collection",
 	"properties": {
-		"parentId": {
-			"name": "parentId",
+		"categoryId": {
+			"name": "categoryId",
 			"type": "string",
 			"typeLabel": "string",
 			"required": true,
-			"id": "parentId",
+			"id": "categoryId",
 			"order": 0
 		},
 		"title": {
@@ -35,8 +35,8 @@
 		},
 		"tasks": {
 			"name": "tasks",
-			"type": "array",
-			"typeLabel": "array",
+			"type": "string",
+			"typeLabel": "string",
 			"required": false,
 			"id": "tasks",
 			"order": 4
