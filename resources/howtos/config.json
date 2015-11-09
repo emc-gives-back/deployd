@@ -35,8 +35,8 @@
 		},
 		"tasks": {
 			"name": "tasks",
-			"type": "string",
-			"typeLabel": "string",
+			"type": "array",
+			"typeLabel": "array",
 			"required": false,
 			"id": "tasks",
 			"order": 4
